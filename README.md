@@ -1,20 +1,9 @@
 <div align="center">
   <br />
     <a href="#">
-      <img src="https://github.com/adrianhajdin/project_react_native_jobs/assets/151519281/e7514725-0706-4080-bee4-b042554dabf7" alt="Project Banner">
+      <img src="https://cdn.dribbble.com/userupload/3910001/file/original-3b4dccf1bea2c108ccd2597c008b4b36.png?resize=1200x900" alt="Project Banner">
     </a>
   <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020" alt="expo" />
-  </div>
-
-  <h3 align="center">React Native Job Finder App</h3>
-
-   <div align="center">
-     Explore and build this project step by step with our detailed tutorial on <a href="#"><b>JavaScript Mastery</b></a>. Join the community!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
